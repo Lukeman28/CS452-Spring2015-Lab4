@@ -1,1 +1,6 @@
-Luke, 3/26/2015, description
+Luke, 3/26/2015, 
+
+For this lab I update my lab 3 by adding changes to the vertex and fragment shader 
+allowing for a texture and referencing it in the html. Then in the java code I used
+a function to create and load the texutre and made buffers in teh code to implement the image.
+
